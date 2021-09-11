@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  docusaurus:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - http_proxy=${http_proxy}
+        - https_proxy=${https_proxy}
+    volumes:
+      - website:/app/website
+    ports:
+      - 3000:3000
+      - 35729:35729
+    command: yarn start --host=0.0.0.0
+
+volumes:
+    website:
