@@ -2,16 +2,16 @@
 <rss version="2.0">
     <channel>
         <title>TechBlog Blog</title>
-        <link>https://sfbsoft.github.io/blog</link>
+        <link>https://sfbsoft.github.io/techblog/blog</link>
         <description>TechBlog Blog</description>
-        <lastBuildDate>Sat, 11 Sep 2021 07:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 07:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Smart HR Solution Introdution]]></title>
-            <link>https://sfbsoft.github.io/blog/hr solution</link>
+            <link>https://sfbsoft.github.io/techblog/blog/hr solution</link>
             <guid>hr solution</guid>
-            <pubDate>Sat, 11 Sep 2021 07:11:39 GMT</pubDate>
+            <pubDate>Sat, 11 Sep 2021 07:15:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

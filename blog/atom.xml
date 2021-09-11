@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sfbsoft.github.io/blog</id>
+    <id>https://sfbsoft.github.io/techblog/blog</id>
     <title>TechBlog Blog</title>
-    <updated>2021-09-11T07:11:39.529Z</updated>
+    <updated>2021-09-11T07:15:45.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://sfbsoft.github.io/blog"/>
+    <link rel="alternate" href="https://sfbsoft.github.io/techblog/blog"/>
     <subtitle>TechBlog Blog</subtitle>
-    <icon>https://sfbsoft.github.io/img/favicon.ico</icon>
+    <icon>https://sfbsoft.github.io/techblog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Smart HR Solution Introdution]]></title>
         <id>hr solution</id>
-        <link href="https://sfbsoft.github.io/blog/hr solution"/>
-        <updated>2021-09-11T07:11:39.529Z</updated>
+        <link href="https://sfbsoft.github.io/techblog/blog/hr solution"/>
+        <updated>2021-09-11T07:15:45.644Z</updated>
         <author>
             <name>sfb-software</name>
             <uri>https://sfb-software.com</uri>
