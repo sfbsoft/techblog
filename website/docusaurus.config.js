@@ -6,13 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'TechBlog',
   tagline: 'Let’s build  a brighter future together',
-  url: 'https://sfbsoft.github.io/',
+  url: 'https://sfbsoft.github.io',
   baseUrl: '/techblog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'sfbsoft', // Usually your GitHub org/user name.
   projectName: 'techblog', // Usually your repo name.
+  trailingSlash: true,
 
   presets: [
     [
@@ -28,7 +29,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/sfbsoft/techblog/website/blog/',
+          'https://github.com/sfbsoft/techblog/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -51,11 +52,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'About Me',
+            label: 'About Us',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/sfbsfot/techblog',
+            href: 'https://github.com/sfbsoft/techblog',
             label: 'GitHub',
             position: 'right',
           },

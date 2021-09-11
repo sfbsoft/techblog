@@ -4,28 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Software Developent Service',
+    title: 'Web system development',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-          Giới thiệu về Outsourcing service
+        Giới thiệu Web system development
       </>
     ),
   },
   {
-    title: 'Consulting Service',
+    title: 'Business system development',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Giới thiệu về Consulting service
+        Giới thiệu Business system development
       </>
     ),
   },
   {
-    title: 'Smart HR Solution',
+    title: 'Smartphone application development',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
+        Giới thiệu Smartphone application development
       </>
     ),
   },
