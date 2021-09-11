@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[734],{8713:function(s){s.exports=JSON.parse('{"allTagsPath":"/techblog/blog/tags","slug":"/techblog/blog/tags/hr-solution","name":"hr solution","count":1,"permalink":"/techblog/blog/tags/hr-solution"}')}}]);
