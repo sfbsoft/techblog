@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sfbsoft.github.io/techblog/blog</id>
     <title>TechBlog Blog</title>
-    <updated>2021-09-14T01:13:31.009Z</updated>
+    <updated>2021-09-14T01:13:54.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sfbsoft.github.io/techblog/blog"/>
     <subtitle>TechBlog Blog</subtitle>
@@ -11,7 +11,18 @@
         <title type="html"><![CDATA[Smart HR Solution Introdution]]></title>
         <id>hr solution</id>
         <link href="https://sfbsoft.github.io/techblog/blog/hr solution"/>
-        <updated>2021-09-14T01:13:31.009Z</updated>
+        <updated>2021-09-14T01:13:54.363Z</updated>
+        <author>
+            <name>sfb-software</name>
+            <uri>https://sfb-software.com</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cài đặt môi trường docker]]></title>
+        <id>docker-install</id>
+        <link href="https://sfbsoft.github.io/techblog/blog/docker-install"/>
+        <updated>2021-09-14T01:13:54.363Z</updated>
+        <summary type="html"><![CDATA[Cài đặt môi trường docker]]></summary>
         <author>
             <name>sfb-software</name>
             <uri>https://sfb-software.com</uri>
@@ -21,7 +32,7 @@
         <title type="html"><![CDATA[Cài đặt proxy cho docker]]></title>
         <id>docker-proxy</id>
         <link href="https://sfbsoft.github.io/techblog/blog/docker-proxy"/>
-        <updated>2021-09-14T01:13:31.009Z</updated>
+        <updated>2021-09-14T01:13:54.363Z</updated>
         <summary type="html"><![CDATA[Cài đặt proxy cho docker]]></summary>
         <author>
             <name>sfb-software</name>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Smart HR Solution Introdution","permalink":"/techblog/blog/hr solution"},{"title":"C\xe0i \u0111\u1eb7t proxy cho docker","permalink":"/techblog/blog/docker-proxy"}]}')}}]);

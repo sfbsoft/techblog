@@ -4,20 +4,27 @@
         <title>TechBlog Blog</title>
         <link>https://sfbsoft.github.io/techblog/blog</link>
         <description>TechBlog Blog</description>
-        <lastBuildDate>Tue, 14 Sep 2021 01:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 01:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Smart HR Solution Introdution]]></title>
             <link>https://sfbsoft.github.io/techblog/blog/hr solution</link>
             <guid>hr solution</guid>
-            <pubDate>Tue, 14 Sep 2021 01:13:31 GMT</pubDate>
+            <pubDate>Tue, 14 Sep 2021 01:13:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cài đặt môi trường docker]]></title>
+            <link>https://sfbsoft.github.io/techblog/blog/docker-install</link>
+            <guid>docker-install</guid>
+            <pubDate>Tue, 14 Sep 2021 01:13:54 GMT</pubDate>
+            <description><![CDATA[Cài đặt môi trường docker]]></description>
         </item>
         <item>
             <title><![CDATA[Cài đặt proxy cho docker]]></title>
             <link>https://sfbsoft.github.io/techblog/blog/docker-proxy</link>
             <guid>docker-proxy</guid>
-            <pubDate>Tue, 14 Sep 2021 01:13:31 GMT</pubDate>
+            <pubDate>Tue, 14 Sep 2021 01:13:54 GMT</pubDate>
             <description><![CDATA[Cài đặt proxy cho docker]]></description>
         </item>
     </channel>
