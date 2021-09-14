@@ -28,7 +28,7 @@ Environment="NO_PROXY="localhost,127.0.0.1,::1"
 $ sudo systemctl daemon-reload
 ```
 
-### Áp dùng config đó vào docker
+### Áp dụng config đó vào docker
 ```
 $ sudo systemctl restart docker.service
 ```
