@@ -3,7 +3,7 @@ slug: logging-rotate
 title: Logging rotation
 date: 2021-09-16
 authors:
-  name: sfb-software
+  name: Engineer teams
   title: sfb-software
   url: https://sfb-software.com
   image_url: https://avatars.githubusercontent.com/u/88891387?s=400&u=2b7e389a1744f8302586abf4eb739d02fee631f0&v=4
