@@ -15,7 +15,7 @@ Khi sử dụng docker trên server, service tự nhiên một ngày đẹp tr�
 lúc đó kiểm tra hệ thống thì ta thấy dung lượng của ổ cứng đã không còn nữa.
 Và lý do là do lượng log quá lớn mà container sinh ra tích tụ từ rất lâu rồi.
 
-Khi đó cách giải quyết sẽ như sua:
+Khi đó cách giải quyết sẽ như sau:
 - Xác định vị trí của file log
 - Xóa nội dung file log
 - Áp dụng thêm logging rotation vào để log không bị tích tụ mà sẽ tự xóa khi quá giới hạn
@@ -25,7 +25,11 @@ Cách để xác định của log
 ```
 $ docker inspect [container name] | grep -i log
 ```
-Nếu trên linux server thì vị trí thường là bên dưới ```/var/lib/docker/containers/xxx-json.log```
+
+Nếu trên linux server thì vị trí thường là bên dưới 
+```
+/var/lib/docker/containers/xxx-json.log
+```
 
 ### Xóa nội dung của file log
 Dùng lệnh dưới để xóa
@@ -44,8 +48,9 @@ logging:
  ```
  
  Ở đây đang ví dụ là cứ 10Mb thì file log sẽ được tách ra, và tối đa là có 3 files như vậy là 30Mb log tối đa.
- Do là options nên các thông số trên có thể thay đổi tùy thích
- Sau đó restart lại các service
+ Do là options nên các thông số trên có thể thay đổi tùy thích.
+
+Sau đó restart lại các service
  ```
  $ docker-compose restart
  ```
