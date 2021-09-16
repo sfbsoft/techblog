@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sfbsoft.github.io/blog</id>
     <title>TechBlog Blog</title>
-    <updated>2021-09-16T09:08:54.699Z</updated>
+    <updated>2021-09-16T09:12:03.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sfbsoft.github.io/blog"/>
     <subtitle>TechBlog Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Smart HR Solution Introdution]]></title>
         <id>hr solution</id>
         <link href="https://sfbsoft.github.io/blog/hr solution"/>
-        <updated>2021-09-16T09:08:54.699Z</updated>
+        <updated>2021-09-16T09:12:03.277Z</updated>
         <author>
             <name>sfb-software</name>
             <uri>https://sfb-software.com</uri>
@@ -21,7 +21,7 @@
         <title type="html"><![CDATA[Cài đặt môi trường docker]]></title>
         <id>docker-install</id>
         <link href="https://sfbsoft.github.io/blog/docker-install"/>
-        <updated>2021-09-16T09:08:54.699Z</updated>
+        <updated>2021-09-16T09:12:03.277Z</updated>
         <summary type="html"><![CDATA[Cài đặt môi trường docker]]></summary>
         <author>
             <name>sfb-software</name>
@@ -32,7 +32,7 @@
         <title type="html"><![CDATA[Cài đặt proxy cho docker]]></title>
         <id>docker-proxy</id>
         <link href="https://sfbsoft.github.io/blog/docker-proxy"/>
-        <updated>2021-09-16T09:08:54.699Z</updated>
+        <updated>2021-09-16T09:12:03.277Z</updated>
         <summary type="html"><![CDATA[Cài đặt proxy cho docker]]></summary>
         <author>
             <name>sfb-software</name>
@@ -46,7 +46,7 @@
         <updated>2021-09-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Trong bài này sẽ hướng dẫn cách xóa log trong container]]></summary>
         <author>
-            <name>sfb-software</name>
+            <name>Engineer teams</name>
             <uri>https://sfb-software.com</uri>
         </author>
     </entry>
