@@ -1,9 +1,10 @@
 ---
 slug: docker-install
 title: Cài đặt môi trường docker
+date: 2021-09-10
 authors:
-  name: sfb-software
-  title: Cài đặt docker
+  name: Engineer teams
+  title: sfb-software
   url: https://sfb-software.com
   image_url: https://avatars.githubusercontent.com/u/88891387?s=400&u=2b7e389a1744f8302586abf4eb739d02fee631f0&v=4
 tags: [docker]
@@ -47,5 +48,6 @@ $ sudo apt-get install docker-ce docker-ce-cli containerd.io
 $ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 # Tạo permission cho docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
-
 ```
+
+🍻 Đến đây là có thể dùng được cả docker engine và docker-compose rồi!
