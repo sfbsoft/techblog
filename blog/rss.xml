@@ -4,14 +4,14 @@
         <title>TechBlog Blog</title>
         <link>https://sfbsoft.github.io/blog</link>
         <description>TechBlog Blog</description>
-        <lastBuildDate>Thu, 16 Sep 2021 09:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 09:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Smart HR Solution Introdution]]></title>
             <link>https://sfbsoft.github.io/blog/hr solution</link>
             <guid>hr solution</guid>
-            <pubDate>Thu, 16 Sep 2021 09:15:49 GMT</pubDate>
+            <pubDate>Thu, 16 Sep 2021 09:16:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Logging rotation]]></title>
