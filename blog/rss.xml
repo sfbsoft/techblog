@@ -4,15 +4,9 @@
         <title>TechBlog Blog</title>
         <link>https://sfbsoft.github.io/blog</link>
         <description>TechBlog Blog</description>
-        <lastBuildDate>Thu, 16 Sep 2021 09:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Smart HR Solution Introdution]]></title>
-            <link>https://sfbsoft.github.io/blog/hr solution</link>
-            <guid>hr solution</guid>
-            <pubDate>Thu, 16 Sep 2021 09:16:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Logging rotation]]></title>
             <link>https://sfbsoft.github.io/blog/logging-rotate</link>
@@ -33,6 +27,12 @@
             <guid>docker-install</guid>
             <pubDate>Fri, 10 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Cài đặt môi trường docker]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Smart HR Solution Introdution]]></title>
+            <link>https://sfbsoft.github.io/blog/hr solution</link>
+            <guid>hr solution</guid>
+            <pubDate>Wed, 08 Sep 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
