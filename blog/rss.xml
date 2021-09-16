@@ -4,21 +4,14 @@
         <title>TechBlog Blog</title>
         <link>https://sfbsoft.github.io/blog</link>
         <description>TechBlog Blog</description>
-        <lastBuildDate>Thu, 16 Sep 2021 09:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 09:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Smart HR Solution Introdution]]></title>
             <link>https://sfbsoft.github.io/blog/hr solution</link>
             <guid>hr solution</guid>
-            <pubDate>Thu, 16 Sep 2021 09:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cài đặt proxy cho docker]]></title>
-            <link>https://sfbsoft.github.io/blog/docker-proxy</link>
-            <guid>docker-proxy</guid>
-            <pubDate>Thu, 16 Sep 2021 09:14:03 GMT</pubDate>
-            <description><![CDATA[Cài đặt proxy cho docker]]></description>
+            <pubDate>Thu, 16 Sep 2021 09:15:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Logging rotation]]></title>
@@ -26,6 +19,13 @@
             <guid>logging-rotate</guid>
             <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Trong bài này sẽ hướng dẫn cách xóa log trong container]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Cài đặt proxy cho docker]]></title>
+            <link>https://sfbsoft.github.io/blog/docker-proxy</link>
+            <guid>docker-proxy</guid>
+            <pubDate>Sat, 11 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cài đặt proxy cho docker]]></description>
         </item>
         <item>
             <title><![CDATA[Cài đặt môi trường docker]]></title>
