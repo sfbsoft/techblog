@@ -4,27 +4,20 @@
         <title>TechBlog Blog</title>
         <link>https://sfbsoft.github.io/blog</link>
         <description>TechBlog Blog</description>
-        <lastBuildDate>Thu, 16 Sep 2021 09:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 09:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Smart HR Solution Introdution]]></title>
             <link>https://sfbsoft.github.io/blog/hr solution</link>
             <guid>hr solution</guid>
-            <pubDate>Thu, 16 Sep 2021 09:12:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cài đặt môi trường docker]]></title>
-            <link>https://sfbsoft.github.io/blog/docker-install</link>
-            <guid>docker-install</guid>
-            <pubDate>Thu, 16 Sep 2021 09:12:03 GMT</pubDate>
-            <description><![CDATA[Cài đặt môi trường docker]]></description>
+            <pubDate>Thu, 16 Sep 2021 09:13:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cài đặt proxy cho docker]]></title>
             <link>https://sfbsoft.github.io/blog/docker-proxy</link>
             <guid>docker-proxy</guid>
-            <pubDate>Thu, 16 Sep 2021 09:12:03 GMT</pubDate>
+            <pubDate>Thu, 16 Sep 2021 09:13:38 GMT</pubDate>
             <description><![CDATA[Cài đặt proxy cho docker]]></description>
         </item>
         <item>
@@ -33,6 +26,13 @@
             <guid>logging-rotate</guid>
             <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Trong bài này sẽ hướng dẫn cách xóa log trong container]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Cài đặt môi trường docker]]></title>
+            <link>https://sfbsoft.github.io/blog/docker-install</link>
+            <guid>docker-install</guid>
+            <pubDate>Fri, 10 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cài đặt môi trường docker]]></description>
         </item>
     </channel>
 </rss>
