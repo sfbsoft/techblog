@@ -1,9 +1,10 @@
 ---
 slug: docker-proxy
 title: Cài đặt proxy cho docker
+date: 2021-09-11
 authors:
-  name: sfb-software
-  title: Cài đặt proxy cho docker
+  name: Engineer team
+  title: sfb-software
   url: https://sfb-software.com
   image_url: https://avatars.githubusercontent.com/u/88891387?s=400&u=2b7e389a1744f8302586abf4eb739d02fee631f0&v=4
 tags: [docker, proxy]
@@ -32,3 +33,4 @@ $ sudo systemctl daemon-reload
 ```
 $ sudo systemctl restart docker.service
 ```
+🍻 Đến đây có thể sử dụng docker dưới môi trường proxy!
