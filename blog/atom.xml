@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sfbsoft.github.io/techblog/blog</id>
+    <id>https://sfbsoft.github.io/blog</id>
     <title>TechBlog Blog</title>
-    <updated>2021-09-16T00:53:08.056Z</updated>
+    <updated>2021-09-16T01:11:36.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://sfbsoft.github.io/techblog/blog"/>
+    <link rel="alternate" href="https://sfbsoft.github.io/blog"/>
     <subtitle>TechBlog Blog</subtitle>
-    <icon>https://sfbsoft.github.io/techblog/img/favicon.ico</icon>
+    <icon>https://sfbsoft.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Smart HR Solution Introdution]]></title>
         <id>hr solution</id>
-        <link href="https://sfbsoft.github.io/techblog/blog/hr solution"/>
-        <updated>2021-09-16T00:53:08.056Z</updated>
+        <link href="https://sfbsoft.github.io/blog/hr solution"/>
+        <updated>2021-09-16T01:11:36.400Z</updated>
         <author>
             <name>sfb-software</name>
             <uri>https://sfb-software.com</uri>
@@ -20,8 +20,8 @@
     <entry>
         <title type="html"><![CDATA[Cài đặt môi trường docker]]></title>
         <id>docker-install</id>
-        <link href="https://sfbsoft.github.io/techblog/blog/docker-install"/>
-        <updated>2021-09-16T00:53:08.056Z</updated>
+        <link href="https://sfbsoft.github.io/blog/docker-install"/>
+        <updated>2021-09-16T01:11:36.400Z</updated>
         <summary type="html"><![CDATA[Cài đặt môi trường docker]]></summary>
         <author>
             <name>sfb-software</name>
@@ -31,8 +31,8 @@
     <entry>
         <title type="html"><![CDATA[Cài đặt proxy cho docker]]></title>
         <id>docker-proxy</id>
-        <link href="https://sfbsoft.github.io/techblog/blog/docker-proxy"/>
-        <updated>2021-09-16T00:53:08.056Z</updated>
+        <link href="https://sfbsoft.github.io/blog/docker-proxy"/>
+        <updated>2021-09-16T01:11:36.400Z</updated>
         <summary type="html"><![CDATA[Cài đặt proxy cho docker]]></summary>
         <author>
             <name>sfb-software</name>

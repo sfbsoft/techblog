@@ -2,29 +2,29 @@
 <rss version="2.0">
     <channel>
         <title>TechBlog Blog</title>
-        <link>https://sfbsoft.github.io/techblog/blog</link>
+        <link>https://sfbsoft.github.io/blog</link>
         <description>TechBlog Blog</description>
-        <lastBuildDate>Thu, 16 Sep 2021 00:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 01:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Smart HR Solution Introdution]]></title>
-            <link>https://sfbsoft.github.io/techblog/blog/hr solution</link>
+            <link>https://sfbsoft.github.io/blog/hr solution</link>
             <guid>hr solution</guid>
-            <pubDate>Thu, 16 Sep 2021 00:53:08 GMT</pubDate>
+            <pubDate>Thu, 16 Sep 2021 01:11:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cài đặt môi trường docker]]></title>
-            <link>https://sfbsoft.github.io/techblog/blog/docker-install</link>
+            <link>https://sfbsoft.github.io/blog/docker-install</link>
             <guid>docker-install</guid>
-            <pubDate>Thu, 16 Sep 2021 00:53:08 GMT</pubDate>
+            <pubDate>Thu, 16 Sep 2021 01:11:36 GMT</pubDate>
             <description><![CDATA[Cài đặt môi trường docker]]></description>
         </item>
         <item>
             <title><![CDATA[Cài đặt proxy cho docker]]></title>
-            <link>https://sfbsoft.github.io/techblog/blog/docker-proxy</link>
+            <link>https://sfbsoft.github.io/blog/docker-proxy</link>
             <guid>docker-proxy</guid>
-            <pubDate>Thu, 16 Sep 2021 00:53:08 GMT</pubDate>
+            <pubDate>Thu, 16 Sep 2021 01:11:36 GMT</pubDate>
             <description><![CDATA[Cài đặt proxy cho docker]]></description>
         </item>
     </channel>
