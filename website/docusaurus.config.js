@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'TechBlog',
   tagline: 'Let’s build  a brighter future together',
   url: 'https://sfbsoft.github.io',
-  baseUrl: '/techblog/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
