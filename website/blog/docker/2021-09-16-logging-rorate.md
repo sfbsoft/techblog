@@ -58,7 +58,7 @@ Sau đó restart lại các service
  ### Setting global
  Còn một cách setting nữa sẽ setting cho toàn bộ docker container chứ không cần vào docker-compose để setting cho từng service.
  ```
- $ sudo vim /etc/docker/daemin.json
+ $ sudo vim /etc/docker/daemon.json
  ```
  
  Thêm vào thông tin dưới đây
@@ -71,7 +71,7 @@ Sau đó restart lại các service
  
  Lưu setting trên lại và kiểm tra bằng lệnh
  ```
- $ sudo cat /etc/docker/daemin.json
+ $ sudo cat /etc/docker/daemon.json
  {
     "log-driver": "json-file",
     "log-opts": {"max-size": "10m", "max-file": "3"}
